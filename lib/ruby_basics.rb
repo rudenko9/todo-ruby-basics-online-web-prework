@@ -12,10 +12,9 @@ def argue (phrase = "I'm rihg and you are wrong!")
 end
 
 def greeting (greeting = "Hi there," name = "Bobby!")
- puts " Hi there, #{name}"
- greeting("Bobby!")
+  "#{greetinf} #{name}"
+ 
  end
-end
 
 def return_a_value (phrase = "Nice")
   return_a_value = "Nice"
