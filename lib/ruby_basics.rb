@@ -12,7 +12,7 @@ def argue (phrase = "I'm rihg and you are wrong!")
 end
 
 def greeting (greeting, name)
-  greetin = "Hi there,"
+  greeting = "Hi there,"
   name = "Bobby!"
   "#{greeting} #{name}"
  
