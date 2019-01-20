@@ -11,7 +11,7 @@ def argue (phrase = "I'm rihg and you are wrong!")
   
 end
 
-def greeting (greeting = "Hi there," name = "Bobby!")
+def greeting (greeting ="Hi there,"name = "Bobby!")
   "#{greetinf} #{name}"
  
  end
